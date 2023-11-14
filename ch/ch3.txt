@@ -1,0 +1,5 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+NatGeo | General TV |  |
+https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A/live

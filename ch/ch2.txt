@@ -1,0 +1,5 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+Al Aoula | General TV |  |
+https://www.youtube.com/channel/UC1X2nRRWPptr88W_N9RWS1g/live

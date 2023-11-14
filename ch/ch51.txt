@@ -1,0 +1,5 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+AlghadExtra | General TV |  |
+https://www.youtube.com/channel/UCJxL0pXBwT0uodwUx9U2Fvg/live
