@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/yt-listchannel/main/simonsuperrabbit.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1700338340/ei/RMZYZcHyH7OSsfIPioyE2Aw/ip/13.83.123.191/id/6MbjbbuPEXg.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr20---sn-ib.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9f-oVp764bRwcjPmsL-KahOIDXZAEVTQzZoKIKg/vprv/1/playlist_type/DVR/mh/IL/mm/44/mn/sn-ib/ms/lva/mv/u/mvi/20/pl/20/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1700315204/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRQIhANV8Fl4KxUFBczt9IKdxdnfj4B_Xx0K5mKLQhDoWwfyWAiBnUNnFXIU_cmFGwlriyADRiHM5qbbB2lIwMgbm55tg6g%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRQIgZ6A3eHMJYibgRAqsW2xHpMS1JJ8N36uzIYIh5JK0ipACIQCFj-mtvA2OR1hXgEEdZcHPm0vKZre0RcLNS3ccjiyDzA%3D%3D/playlist/index.m3u8
