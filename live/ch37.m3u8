@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/arabicchannels/quranradio_ksa.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1700838934/ei/tmlgZaWKNsu2ir4P9dmbwAg/ip/172.183.112.112/id/pKOmStbwS7A.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-vgqsknzl.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9f6SUTZBW-fYmOvJv5o-MbJDZv0DYmBE53RUDSg/vprv/1/playlist_type/DVR/initcwndbps/5858750/mh/a7/mm/44/mn/sn-vgqsknzl/ms/lva/mv/m/mvi/5/pl/14/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1700816907/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRgIhALeHJGY-qGRkpK-s6MJEmIvoDIzt-nEqWtwbh2-zCh0FAiEA6dZR8w_kmH9eNemFyJwPb7C4PoWzwPb6jz--TUcwMxc%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRAIgXGo6sraGHp-7WCrAqnhrs5O8z_aGvRsOXZd0Pi-nOccCIHZO9sBbq6tRIX2ZQtwB890flbNjV9Go7nUH7kp4FgfM/playlist/index.m3u8
