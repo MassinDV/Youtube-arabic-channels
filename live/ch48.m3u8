@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1701274640/ei/sA9nZb6aNam9_9EPj4Gj8Ao/ip/20.49.54.6/id/-9VA3w93G6M.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr2---sn-p5qddn7r.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fzyVaz44fgVmKTDCFAc9t9YfGibNsUl8p1ULEw/vprv/1/playlist_type/DVR/mh/um/mm/44/mn/sn-p5qddn7r/ms/lva/mv/u/mvi/2/pl/17/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1701252211/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRQIhALIIrWEtlj0ZWam_WIY65cD33H9h_eICxT3gdwE4cxbbAiBzrDcD9VvqNZkDrJOT6joB8fXe-nwZRkRSx11aNHHLMA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRAIgdCSBvpPI_7JIAkm7TxRE3nRSIxFWP9r8oLJm4pffpzgCIEi0qc8O-IGMdJtqxfwtelTlOOAFEr9kFthmF68ijE4n/playlist/index.m3u8
+https://raw.githubusercontent.com/MassinDV/videos/main/arabicchannels/palestinetvchannel.m3u8
