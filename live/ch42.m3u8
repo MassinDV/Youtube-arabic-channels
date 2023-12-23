@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/arabicchannels/riyadiyatv.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1703384117/ei/1T-HZc2OG9SCsfIP_IGGoAE/ip/52.225.76.17/id/t4BIMUDu-HM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-q4fl6n6r.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/us/spc/UWF9fw9gc6LJoPKD-ahgvewDKPKZiA7cnm99vcL4zg/vprv/1/playlist_type/DVR/mh/OC/mm/44/mn/sn-q4fl6n6r/ms/lva/mv/u/mvi/1/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1703361626/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,spc,vprv,playlist_type/sig/AJfQdSswRgIhAOHvrrbAMa9c28R049nZZIxgUy7ZDIpXDyc_wH-_Z038AiEA_U2s4zIZvcyD2KSAGYhl9EKqhZ011YYLLEKjbdh8D58%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRQIhANCe_pRVK4EHubnk916PI112guUhPPG2l6e6UAVxGc3aAiBOx9tGYQOQplRyJiKxiXaAuzMR1W4ZPdoGQJ-tVAxKsg%3D%3D/playlist/index.m3u8
