@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1703517362/ei/UkiJZcb6MYSZsfIPwqGy2Ao/ip/20.172.43.98/id/7PD4Qu3ccc8.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr4---sn-2imern76.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f-lu6_PV4-QlQ9pPDZ2QdUCyByAK9IwQFmegww/vprv/1/playlist_type/DVR/mh/oh/mm/44/mn/sn-2imern76/ms/lva/mv/u/mvi/4/pl/19/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1703494651/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAONcqcaGhRdTxB7I-ucxrUB_r_XLoJBLEwJq0Q2Fxb9yAiEAq8mo0eLz-xpT4HDrp5bjzL5WBwk_wVkRgIt7Hmn9xY0%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRAIge5fvGfMDPicau7PfBfw1-ghijvLN0mKq0zS3U4jVEQICIG3I2Vu6sTmqlQDXA-Pz-jAQokHz6DyzS_FgFjjccD6N/playlist/index.m3u8
+https://raw.githubusercontent.com/MassinDV/videos/main/arabicchannels/alquran-official.m3u8
