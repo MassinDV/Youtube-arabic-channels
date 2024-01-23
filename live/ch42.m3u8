@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1705986987/ei/S_euZePTCPyb2_gPjs2quAY/ip/172.183.131.162/id/wfKA2fNG5U4.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-vgqsrnld.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f_v29knm-9oCl6tvrfW6VYEkEQqD9R-FNT55Y9KFPyA/vprv/1/playlist_type/DVR/mh/Hi/mm/44/mn/sn-vgqsrnld/ms/lva/mv/u/mvi/5/pl/14/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1705961640/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgURkJljY8hSSzeT30g4yabqjXqea0CFvosMTZLRPgBRoCIB2aTXUaoVfIoU-PfOwdCK-1MDab3Gq68jGP1Tl-vUSP/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRAIgEX_6wj3A7tfeojZ4TCdhHJk8PmSIvLUNhTMR2JV9Q3QCID-5L8ZSdw1UdT8CaGwLu1oVViLb_KieIf6yh_23X9Kh/playlist/index.m3u8
+https://raw.githubusercontent.com/MassinDV/videos/main/arabicchannels/riyadiyatv.m3u8
