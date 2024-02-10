@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/arabicchannels/alyaumch.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1707578058/ei/aj7HZZPoFJmH_9EPgbSF6AU/ip/20.97.189.19/id/ywPbhO2doWg.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-p5qddn7r.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f193gpUS7ChfZCEwbLP31z54VViboOhfpSRf0cW3GPk/vprv/1/playlist_type/DVR/mh/f1/mm/44/mn/sn-p5qddn7r/ms/lva/mv/u/mvi/5/pl/17/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1707556060/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAPZ3Fqh9Efm00w0tyNZJuJSioX_uPzWIvBsbO0hqF2erAiEAxQEO-uNyZnHvGryD3VbwEKAOMBNUzhTeB0wPY-PINQA%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRQIhAKVbdtUIbRVG8P6AWmu6pTCbK_vThUS5V53_BFsMCQ2jAiBVvOlQ4WBCacEWj7HuKriCKsOyDG7sn3YM256YAy_43A%3D%3D/playlist/index.m3u8
