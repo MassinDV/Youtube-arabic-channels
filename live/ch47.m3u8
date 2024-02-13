@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/arabicchannels/mauritaniantv.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1707870008/ei/2LLLZa_IEuTSsfIP0Kyf6Ak/ip/4.227.114.179/id/ChWNH-ZgCAs.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-a5msener.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f8DrJa5LI09CQmHYNja8Fymi4HTdoJRsneNeVcRxR5o/vprv/1/playlist_type/DVR/mh/pe/mm/44/mn/sn-a5msener/ms/lva/mv/u/mvi/5/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1707847840/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgFNKd9Dx_ubqsz-3qDIMNYr-jXmbInnkYuXJjJHJzh_8CIHQThtgCU3iQKZWhWcWfU1gu0Wv1WTqwpJtZfIwJ8kSV/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/APTiJQcwRQIgPdyLCcFMbf06uKW_E3Iin3vcrRWgdik05YD8ETNTu9YCIQCm3AnFlVaoZvZIfGCR4WKwNUoCQvi57z5S_7y_LrVwTA%3D%3D/playlist/index.m3u8
