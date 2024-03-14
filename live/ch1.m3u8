@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/yt-listchannel/main/disneyxd.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1710450898/ei/chTzZdTZGsyqzLUP_5CR2Aw/ip/20.51.199.10/id/vJj8vhY6ECU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-p5qs7nsk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f7QPEmGshtEPCHfFFsaJbbX9ifUMgzZyyC4lFb4uWEk/vprv/1/playlist_type/DVR/mh/Zl/mm/44/mn/sn-p5qs7nsk/ms/lva/mv/u/mvi/2/pl/17/dover/11/pacing/0/keepalive/yes/mt/1710428100/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAKoAGr2yVbYckyyz5xhTpoPjEwGYkhwOQGfwY4jjIbmYAiAZ63-Nglps8QVP_-p_9vjxWmGRtUUDU4MQ9l7qDCX8Tg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/APTiJQcwRQIgX2qEKIUs01S2OZCIeZ-5Ufp_jmpPPT8g8eSImvxKPtwCIQDFsQiOlO_WYvADRWQ0Rbt9B3bsWVf8TvKEwHn3XXjpFg%3D%3D/playlist/index.m3u8
