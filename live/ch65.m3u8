@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/kids/kids-songs-stories-pinkfong-baby-shark.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711016376/ei/WLX7ZbOAM8WB_9EPgI2vwAM/ip/20.97.191.133/id/BbGBdpi7xAU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-p5qs7n6d.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fw1wBHrdNFjHRvREKQ_qiHBslo3qQIWl_lkwmbUvfDE/vprv/1/playlist_type/DVR/mh/3q/mm/44/mn/sn-p5qs7n6d/ms/lva/mv/u/mvi/5/pl/17/dover/11/pacing/0/keepalive/yes/mt/1710993752/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgSOaHkKnSfWycqqpJ89voUO6f-_JMcl1uOVE1dEnOTcwCIAIzrWXZ9y7d0T1i_WDihjfT63shEuKIsNIQi-eKVxGr/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRAIgUxS9NYwt6NFzru8fG2iywExXyFCiZ6gLm7RKk0d0SjwCIB2xUWr25STrOBl09u44NWuLN1QD1PLJnSWBIJnLjoNa/playlist/index.m3u8
