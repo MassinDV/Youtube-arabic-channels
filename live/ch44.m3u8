@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/arabicchannels/saudisunnahtv.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1713457128/ei/iPMgZpLLI7e5sfIP-rGFiAI/ip/52.238.29.133/id/-mr6TD6YxR8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-q4flrnl7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f4tij5_Emz3720x9h2foak4nkeK6x8MRCcSs3_VzYAT06sOTr-lENAFJ/vprv/1/playlist_type/DVR/mh/Z0/mm/44/mn/sn-q4flrnl7/ms/lva/mv/u/mvi/2/pl/16/dover/11/pacing/0/keepalive/yes/mt/1713435063/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAIdYr7gLnpHwz1ZYLZEegGOriMtWKQYdw9MPi-V65eIJAiEAiV_g9BAnAqczQ03Cb-KOh9RX6h7NI61tq6CGon7HAps%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRAIgI4vJc1SpZCbJCRhq--ntwSXnPP_aj5sGPYxnUegkSOoCIHcNb6LU7wS7O6vYhucP7ARVgDqyFCsMXoNMvJaGetMm/playlist/index.m3u8
