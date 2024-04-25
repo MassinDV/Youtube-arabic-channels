@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/arabicchannels/zadtvchannel.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1714090800/ei/0J4qZun3GoSTsfIP49W6wAs/ip/4.227.14.133/id/yr98MmuZ5SU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-a5mekn6r.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f9ridlsCMoSpa6mmSy2K6F8h4pC8bfRzNhA2KRKtDEulTNTCzjtbvA4Q/vprv/1/playlist_type/DVR/mh/f0/mm/44/mn/sn-a5mekn6r/ms/lva/mv/u/mvi/1/pl/16/dover/11/pacing/0/keepalive/yes/mt/1714068569/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAJCUVGG31aKwQtTAuQqmDC-Pr5pklYkYId8zdWxX-q8iAiEA28OpmAK_cR3Vx_g3zt_wC14_NtNGWPT2Vyb3KLylXkE%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRAIgDQ8BNCDfoFl0261jSaB3AskxQvH26ukadaPLJm_HCycCIBotCZw35NJWoNmco2RagjgYQa_ZA3gMF0WBnFDKb70r/playlist/index.m3u8
