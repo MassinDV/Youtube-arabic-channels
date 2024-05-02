@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1714702601/ei/qfQzZrSYJLGpkucPz8ec8AY/ip/20.97.191.44/id/gFQMZ6DZTUc.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-p5qlsn7l.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/spc/UWF9f95o35EoZtYu_rrPE92d8cEYPQbuWKJ5IAWTbX10RQ1WjREI3EHAJ8pL/vprv/1/playlist_type/LIVE/mh/Bk/mm/44/mn/sn-p5qlsn7l/ms/lva/mv/u/mvi/3/pl/17/dover/11/pacing/0/keepalive/yes/mt/1714680025/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,spc,vprv,playlist_type/sig/AJfQdSswRAIgKI-knEE73qEqwb5ccZs1x7ZLbREZwEEXwZwhNVCg2lcCIH37LJGu2nxwZwuqnEM07V6MRIOSztZMdm1EeASH_6-J/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIgaa9cMHCRgy4k9fU4Ql2l3gWbMgCb7h5CBNM8cx0H378CIQDSc028itHoB46Z4zuJeT42jdyRrlBg0XzHwcRt6j0B5A%3D%3D/playlist/index.m3u8
+https://raw.githubusercontent.com/MassinDV/yt-listchannel/main/simonsuperlapin.m3u8
