@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1714864400/ei/sGw2Zq-iLp2Kir4P-L6EmAY/ip/172.183.131.131/id/7QTZym9IqVM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-vgqsknz6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f9NP44jRr9EkSffmiIJzfvtweaKxeIJhDavnW6h5RctyYwArvEOJ8NGT/vprv/1/playlist_type/DVR/mh/Li/mm/44/mn/sn-vgqsknz6/ms/lva/mv/u/mvi/1/pl/15/dover/11/pacing/0/keepalive/yes/mt/1714842366/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgZO4hlPkq2X0Fr8iQFPiRkuBCIhtLvj-hk1bk5_l-GHwCIA88BrUUj2sRlI2I-GZeBXYSuFOP5scwu6AUzD20kV_i/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIgEYEVokP6ORqCHsXFIOZFkm4Kk8sFwKGL6aqVkneB6CcCIQCSibpOeCKadZ9hUuoMfkJby0Zdjpk43JKyqWtpEe366g%3D%3D/playlist/index.m3u8
+https://raw.githubusercontent.com/MassinDV/videos/main/arabicchannels/royanews.m3u8
