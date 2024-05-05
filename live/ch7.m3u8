@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/yt-listchannel/main/barbieencastellano.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1714904350/ei/vgg3Zu7FEu6rkucP74O52AY/ip/20.36.192.40/id/jPTD2gnZFUw.400/itag/300/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D298/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-p5qddn7k.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f4hBN73VjZ1b_KPyli0Ca5yYRWA2WbPJi4LgtaVRvnY0ccr2rIkBh2hO/vprv/1/playlist_type/DVR/mh/j6/mm/44/mn/sn-p5qddn7k/ms/lva/mv/u/mvi/5/pl/17/dover/11/pacing/0/keepalive/yes/mt/1714881534/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAKo2Px97JhbcFhGCvYWd4rbJ86YgCtsIMkOsOGYGeVUXAiEA-j0pxiBMv2yt8OXI_coYplqgVPErNBMbztI7LBEsPzo%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIgRwF_zdIu9j6MP2jOwMnFfgFy-HL8-_DNvq4-E885R2ACIQDR7O0TqOP7X7Uo8F-hw9IhEaEiajWLZJ3BaAPYcrVA_g%3D%3D/playlist/index.m3u8

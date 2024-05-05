@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/arabicchannels/alarabiyabusiness.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1714904379/ei/2wg3ZrjmBYqhkucP35G50Ao/ip/20.36.192.40/id/ebkvidfKmBQ.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr8---sn-4h.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fwVXD28Ycj_Qj97GOCnT5_CBNfzBqEdcAF8OM6F205556h9lHunLr2kM/vprv/1/playlist_type/DVR/mh/Fl/mm/44/mn/sn-4h/ms/lva/mv/u/mvi/8/pl/17/dover/11/pacing/0/keepalive/yes/mt/1714881534/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgOHgRMrza9OBMdx63Q-YFnZvbY0hpzMrN_9V4htfOrKsCIEn9UW0Wz9YkRU6oiOn-BJZvOmG8z5OvJOQ8JP7w21gM/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRgIhAKvmQUzlCQidb9kFMiZpF54tI778Z6UNGC0HEF9_DdoRAiEAnr9wD9VoQ9gWcEDEkGuCwoJK-UTXPdlJ6Wydko9pGMA%3D/playlist/index.m3u8

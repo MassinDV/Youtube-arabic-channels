@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/arabicchannels/skynewsarabia.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1714904363/ei/ywg3ZtbNLJiokucPgdC86Ag/ip/20.36.192.40/id/me1fBxx9wJY.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-p5qddn7z.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f4Xw9T-SC4RjxWvdMUT6YwfCwYww44JLfpERmZuY1WuAN64u03cDt7_7/vprv/1/playlist_type/DVR/mh/GB/mm/44/mn/sn-p5qddn7z/ms/lva/mv/u/mvi/4/pl/17/dover/11/pacing/0/keepalive/yes/mt/1714881534/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAL3hg7lL-7v2oMx-gv4RMgMxfyH5fh8DJR0E_2za54TIAiEA_wKQ9CcQKa6Rcgz-D0pfBjHS5FJEUmSYI5VX-CFx9t0%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIgNgk_dJQZ4cbIcriG4P-s9rAYHfhuLUpZv_GZ5G80uuACIQCBT8zjZXgVVmC3i8qg0XISr_oM7YiwlmLLrO-73VBiPw%3D%3D/playlist/index.m3u8
