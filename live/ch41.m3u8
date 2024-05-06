@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1715034102/ei/lgM5ZqX7EZ65sfIPgvmCoAQ/ip/20.172.5.39/id/p_oAmxsyJ0Y.2/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-ib.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f6-6VYaSSjpQB2-lfmmTqjyiZUz9U8F2yCrZFIITq2TF_AFa7r17mHAE/vprv/1/playlist_type/DVR/mh/uH/mm/44/mn/sn-ib/ms/lva/mv/u/mvi/4/pl/24/dover/11/pacing/0/keepalive/yes/mt/1715012259/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhANwuTZdQxphEL4uLPhs6crqDf9eRVB-V0HVrtEWXLOQKAiAln7yzlla_ieHOKxZifOZTFWjQrxE228SzmWNDzHUfDw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRAIgZCo31pAjauvkcbqET3UDIj5eLxEl7X319MkBD-qlwdoCICbnaBato_lxHN2fhwZLv1X-6Pt1XKUmtHU62mujDHcf/playlist/index.m3u8
+https://raw.githubusercontent.com/MassinDV/videos/main/arabicchannels/alqaheranewslivestream.m3u8
