@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/arabicchannels/saudinewstv.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1715112847/ei/Lzc6Zp2IBPvPsfIPj5OnkAg/ip/52.157.3.109/id/mn4DlkkqfAo.4/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-a5mlrnl6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/h1/mm/44/mn/sn-a5mlrnl6/ms/lva/mv/u/mvi/4/pl/24/dover/11/pacing/0/keepalive/yes/mt/1715090880/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRAIgR6ozP0nHphwcqX9Hha1PnU6tddmm8J9UYfSreZR_hgUCID_zb2rHo5ogsZ_U8JrIIZib4bI32PKo2NEsWKzL_ryf/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIgcQ0ValthayedzhHGsqnW0y9uf9G19AZhX0Ivqo4Wr78CIQCjtXexfzaK67iEraA82arimStw1W15QEDBk-1jAczyVg%3D%3D/playlist/index.m3u8
