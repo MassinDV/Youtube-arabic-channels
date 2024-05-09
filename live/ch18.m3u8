@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/arabicchannels/bloombergquicktake.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1715246243/ei/Q0A8ZueVH56ckucP-9OzqAE/ip/74.249.5.225/id/DxmDPrfinXY.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-4o.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/us/vprv/1/playlist_type/DVR/mh/yA/mm/44/mn/sn-4o/ms/lva/mv/u/mvi/1/pl/16/dover/11/pacing/0/keepalive/yes/mt/1715223974/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AJfQdSswRgIhAI1QnqVwZBOY8xtghmzG7JK58iuFLYZAdIvuii9p77kaAiEA6TEV8KFFRz8FdCZnL3YRJ4ZUN50PWqIsz7aVY8-NoOk%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRAIgR7z5KpwnEIZGnLrbQbXOHIu9Rtp1U48fXH1zy6pae1gCIGURxsvp8SzBhdDPGLog89W7AaWTfTpZYucLtHpnahTx/playlist/index.m3u8
