@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/arabicchannels/extranewsstream.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1715346959/ei/r8k9ZqPPJb7Alu8Pr72gUA/ip/20.98.6.141/id/-IO-45oQZOk.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-vgqsrnlk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/J8/mm/44/mn/sn-vgqsrnlk/ms/lva/mv/u/mvi/1/pl/15/dover/11/pacing/0/keepalive/yes/mt/1715324860/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIgWcpoidAgA1OstlwL98zP3LAICSbP9bhT7eRJEmt4XDgCIQD3ldQa-sw3TC83rF2gyOvcH6xZQ0E2Hy1xkQi4fYKguw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIgYxYUqCXRlYxyu6Kdj9ScTTnHccYeu2Rw_wqChKlYhy0CIQDYi4fSB2nQrJ3MXjDDnlcUfL3gbEkIlAWPCIzXtO45_g%3D%3D/playlist/index.m3u8
