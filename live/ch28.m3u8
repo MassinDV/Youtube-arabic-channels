@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/arabicchannels/halabel3eyal.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1716682782/ei/vitSZpq1CY2b2_gPlrOGaA/ip/172.183.131.141/id/TtPTcDuZnPU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-vgqsknse.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/95/mm/44/mn/sn-vgqsknse/ms/lva/mv/u/mvi/5/pl/17/dover/11/pacing/0/keepalive/yes/mt/1716660247/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIhANy1xfmgQVqUVT5f74p59yg6aG6AIzFC6snjt2PAvMU2AiBpT1172VvaXzW0mgnwKfe5uHAXWB9wzewkCtoyNaSVhg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRgIhAJrVdLx2bfR1XZDOwMiDUcui9y5X_kq5KPCSUQ6bd3yIAiEAvXPGZ_5b15_wtkioXtjvw9GKesYlKp03RQYMlgoE92s%3D/playlist/index.m3u8

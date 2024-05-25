@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/kids/fruity-tv.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1716682820/ei/5CtSZp_pIfiGybgPjdStkAY/ip/172.183.131.141/id/BnAQthr879M.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-vgqsknz7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f5lH5vc-7KpV9f0Zis4kzzEl-SNq3zs2T9tv7sqNc1y1YiBiVmEVXY-z8u0/vprv/1/playlist_type/DVR/mh/gQ/mm/44/mn/sn-vgqsknz7/ms/lva/mv/u/mvi/2/pl/17/dover/11/pacing/0/keepalive/yes/mt/1716660247/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAI2C-8RMZ--PbGqCWZznsarBmaxA9fiuJS4dHmBhiIPqAiBoFRRPR2O0oyRFM80wxttuEbg5rlkRhNCBa0lBPqqkJQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIhAK1KjmQG1CeDaWHWaDVKHilw_aXNQ0YSJSHuRCeNlYfgAiB625hcINYn6vW07xL9eX6x3k0YKihQLLhmC8Sx3xHKwA%3D%3D/playlist/index.m3u8
