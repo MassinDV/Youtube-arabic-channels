@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717147112/ei/iEFZZpWaLJCAkucPwfWyuAM/ip/74.249.5.178/id/QoY06xa2vII.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-p5qddn7r.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f_JB2thC2lh1Wb_Nl61KaxRQcLgz90JpRxzKy2InLY9QfFH6famdIQOOHrA/vprv/1/playlist_type/DVR/mh/Th/mm/44/mn/sn-p5qddn7r/ms/lva/mv/u/mvi/1/pl/16/dover/11/pacing/0/keepalive/yes/mt/1717124431/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgW8S6Vhrb9KAdV2sUvJDJItIb5xtmCq-QK7D_0WXfAMICIAuvxnV2-JyhDI4volSQOZJOLGP20rGCcNmWQgCGjeoM/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIhAPBT250XnElKgCFP0K31Wh8GcxSfxggJMuMG1u8q0rQFAiAsuRkVZRHLkZns_TwqSqo-R4Xw4aHBHg2GkfxlmiA1nA%3D%3D/playlist/index.m3u8
+https://raw.githubusercontent.com/MassinDV/videos/main/arabicchannels/belqeestv.m3u8
