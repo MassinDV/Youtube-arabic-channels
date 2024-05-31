@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/arabicchannels/kwntv.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717197318/ei/pgVaZuTiNOzEy_sPvfDhuQ4/ip/20.81.159.51/id/ZRj6QBopxfo.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-4h.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f1x6afGfao0m2Cvs2o7mssRJ1iuYYji8DmmRjauYEmjHVB7djBgTVdtQI8Q/vprv/1/playlist_type/DVR/mh/FJ/mm/44/mn/sn-4h/ms/lva/mv/u/mvi/2/pl/17/dover/11/pacing/0/keepalive/yes/mt/1717174963/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgYDMcYYxPmn2PVQZ3K9pLeeWuQwi0ElDkwhpdSNHjyzECIAYRcRgoWH6kZs9uG-1wcaXgSnNY-KA3Wmo2Gafvj9K5/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRgIhAJy2tZOMNYsGz1InfGqchRgTleqD4grhdaRDBUGWb9BCAiEAgZSN7E_nVclsQbyd97eSMItKsLUtf-p3sZswSRW_F5w%3D/playlist/index.m3u8
