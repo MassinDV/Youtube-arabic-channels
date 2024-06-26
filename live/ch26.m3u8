@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/arabicchannels/24sports73.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1719436731/ei/WzF8ZtfEC6XIsfIPhdu2wAw/ip/52.238.28.184/id/2mzQT8OaJfY.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-q4fzen7s.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fw6cp1m_3U5Yad8BGhdP855ADdF18gkp-sNopbxVcm-jAXziCW_RWbBALs8/vprv/1/playlist_type/DVR/mh/Tp/mm/44/mn/sn-q4fzen7s/ms/lva/mv/u/mvi/3/pl/16/dover/11/pacing/0/keepalive/yes/mt/1719414920/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAIL8jrm7VDtWqU18V_OAQKXwqjdgr4UzuqsS-H_hd_ezAiAIQhfY5wSmwE57--4kU26J0hU5D_Ow5Ny2c6-3yMBMNQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRgIhAOJ3NkcL47X_p733Tqkt3mU1zq8NUiYRCjyqq61rQKvyAiEA2vbvy4PoP3TMll1r-t2TSZ3HAdCgeLce1QPKaWOxf1E%3D/playlist/index.m3u8
